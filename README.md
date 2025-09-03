@@ -1,0 +1,3 @@
+# Makefile for Go
+
+[WIP]
