@@ -9,3 +9,6 @@ vet: fmt
 
 build: vet
 	go build
+
+clean:
+	go clean -i -cache
