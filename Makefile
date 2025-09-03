@@ -11,4 +11,4 @@ build: vet
 	go build
 
 clean:
-	go clean -i -cache
+	go clean -i -r -cache
